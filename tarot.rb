@@ -1,4 +1,4 @@
-all_cards = [ 
+allCards = [ 
 ["|0| - the fool - upright", "|0| - the fool - inveted"],
 ["|i| - the magician - upright", "|i| - the magician - inveted"], 
 ["|ii| - the high priestess - upright", "|ii| - the high priestess - inveted"], 
@@ -78,3 +78,4 @@ all_cards = [
 ["|k| - king of cups - upright", "|k| - king of cups - inveted"],
 ["|q| - queen of cups - upright", "|q| - queen of cups - inveted"]
 ]
+allCArds.sample(3)
