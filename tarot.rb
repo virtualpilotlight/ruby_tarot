@@ -79,3 +79,17 @@ allCards = [
 ["|q| - queen of cups - upright", "|q| - queen of cups - inveted"]
 ]
 allCArds.sample(3)
+
+#print draw
+#print draw[0][1]
+
+
+
+
+i = 0
+while i < 3 do
+	j = rand(2)
+	print draw[i][j]
+	print "\n"
+	i +=1
+end
