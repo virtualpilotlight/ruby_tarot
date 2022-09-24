@@ -78,18 +78,34 @@ allCards = [
 ["|k| - king of cups - upright", "|k| - king of cups - inveted"],
 ["|q| - queen of cups - upright", "|q| - queen of cups - inveted"]
 ]
-allCArds.sample(3)
+
+draw = allCards.sample(3)
 
 #print draw
 #print draw[0][1]
 
+#i = 0
+#while i < 3 do
+#	j = rand(2)
+#	print draw[i][j]
+#	print "\n"
+#	i +=1
+#end
 
-
-
-i = 0
-while i < 3 do
-	j = rand(2)
-	print draw[i][j]
-	print "\n"
-	i +=1
-end
+card = 0
+k = rand(2)
+l = rand(2)
+m = rand(2)
+print "past"
+print "\n"
+print draw[card][k]
+print "\n"
+card +=1
+print "present"
+print "\n"
+print draw[card][l]
+print "\n"
+card +=1
+print "future"
+print "\n"
+print draw[card][m]
