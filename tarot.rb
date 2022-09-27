@@ -25,8 +25,8 @@ allCards = [
 ["|2| - two of penticles - upright -juggle, balance, maintainance.", "|2| - two of penticles - inveted - imbalances, struggling"],
 ["|3| - three of penticles - upright -  mastery of a skill, achieving perfection, artistic ability", "|3| - three of penticles - inveted - sloppiness,  lack of skill, banal ideas."],
 ["|4| - four of penticles - upright - greed, hoarding", "|4| - four of penticles - inveted - spendthriftiness"],
-["|5| - five of penticles - upright - loss of faith,  losing security,", "|5| - five of penticles - inveted -  hope returns, renewal of faith."],
-["|6| - six of penticles - upright - redistribution of gratification, questions the motives of charity", "|6| - six of penticles - inveted -  desire, cupidity, envy, jealousy, illusion."],
+["|5| - five of penticles - upright - loss of faith,  losing security.", "|5| - five of penticles - inveted -  hope returns, renewal of faith."],
+["|6| - six of penticles - upright - redistribution of gratification, questions the motives of charity.", "|6| - six of penticles - inveted -  desire, cupidity, envy, jealousy, illusion."],
 ["|7| - seven of penticles - upright - movement,  commitment towards your dreams, emotional and spiritual rewards.", "|7| - seven of penticles - inveted - doing too much, cut your losses, bad investment."],
 ["|8| - eight of penticles - upright - work, employment, commission, craftsmanship, skill in business, preparatory stage", "|8| - eight of penticles - inveted - voided ambition, vanity, cupidity, exaction, usury."],
 ["|9| - nine of penticles - upright - financial independence,  treat yourself, stable financial plateau.", "|9| - nine of penticles - inveted -  excess spending, being co-dependent."],
@@ -49,34 +49,34 @@ allCards = [
 ["|j| - jack of swords - upright - ambitious, action-oriented, driven to succeed, fast-thinking.", "|j| - jack of swords - inveted - restless, unfocused, impulsive, burn-out."],
 ["|k| - king of swords - upright - mental clarity, intellectual power, authority, truth.", "|k| - king of swords - inveted - quiet power, inner truth, misuse of power, manipulation."],
 ["|q| - queen of swords - upright -  independent, unbiased judgement, clear boundaries, direct communication.", "|q| - queen of swords - inveted -  overly-emotional, easily influenced, bitchy, cold-hearted."],
-["|a| - ace of wands - upright", "|a| - ace of wands - inveted"],
-["|2| - two of wands - upright", "|2| - two of wands - inveted"],
-["|3| - three of wands - upright", "|3| - three of wands - inveted"],
-["|4| - four of wands - upright", "|4| - four of wands - inveted"],
-["|5| - five of wands - upright", "|5| - five of wands - inveted"],
-["|6| - six of wands - upright", "|6| - six of wands - inveted"],
-["|7| - seven of wands - upright", "|7| - seven of wands - inveted"],
-["|8| - eight of wands - upright", "|8| - eight of wands - inveted"],
-["|9| - nine of wands - upright", "|9| - nine of wands - inveted"],
-["|10| - ten of wands - upright", "|10| - ten of wands - inveted"],
-["|p| - page of wands - upright", "|p| - page of wands - inveted"],
-["|j| - jack of wands - upright", "|j| - jack of wands - inveted"],
-["|k| - king of wands - upright", "|k| - king of wands - inveted"],
-["|q| - queen of wands - upright", "|q| - queen of wands - inveted"],
-["|a| - ace of cups - upright", "|a| - ace of cups - inveted"],
-["|2| - two of cups - upright", "|2| - two of cups - inveted"],
-["|3| - three of cups - upright", "|3| - three of cups - inveted"],
-["|4| - four of cups - upright", "|4| - four of cups - inveted"],
-["|5| - five of cups - upright", "|5| - five of cups - inveted"],
-["|6| - six of cups - upright", "|6| - six of cups - inveted"],
-["|7| - seven of cups - upright", "|7| - seven of cups - inveted"],
-["|8| - eight of cups - upright", "|8| - eight of cups - inveted"],
-["|9| - nine of cups - upright", "|9| - nine of cups - inveted"],
-["|10| - ten of cups - upright", "|10| - ten of cups - inveted"],
-["|p| - page of cups - upright", "|p| - page of cups - inveted"],
-["|j| - jack of cups - upright", "|j| - jack of cups - inveted"],
-["|k| - king of cups - upright", "|k| - king of cups - inveted"],
-["|q| - queen of cups - upright", "|q| - queen of cups - inveted"]
+["|a| - ace of wands - upright - inspiration, new opportunities, growth, potential.", "|a| - ace of wands - inveted - an emerging idea, lack of direction, distractions, delays."],
+["|2| - two of wands - upright - future planning, progress, decisions, discovery.", "|2| - two of wands - inveted - personal goals, inner alignment, fear of unknown, lack of planning."],
+["|3| - three of wands - upright - progress, expansion, foresight.", "|3| - three of wands - inveted - playing small, lack of foresight, unexpected delays."],
+["|4| - four of wands - upright - celebration, joy, harmony, relaxation, homecoming.", "|4| - four of wands - inveted - personal celebration, inner harmony, conflict with others, transition."],
+["|5| - five of wands - upright - conflict, disagreements, competition, tension.", "|5| - five of wands - inveted - inner conflict, conflict avoidance, tension release, adversity."],
+["|6| - six of wands - upright - success, public recognition, progress, self-confidence.", "|6| - six of wands - inveted - private achievement, personal definition of success, fall from grace, egotism."],
+["|7| - seven of wands - upright - challenge, competition, protection, perseverance.", "|7| - seven of wands - inveted - exhaustion, giving up, overwhelmed."],
+["|8| - eight of wands - upright - movement, fast paced change, action, alignment, air travel.", "|8| - eight of wands - inveted - delays, frustration, resisting change, internal alignment."],
+["|9| - nine of wands - upright - resilience, courage, persistence, test of faith, boundaries.", "|9| - nine of wands - inveted -  inner resources, struggle, overwhelm, defensive, paranoia."],
+["|10| - ten of wands - upright - burden, extra responsibility, hard work, completion.", "|10| - ten of wands - inveted - doing it all, carrying the burden, delegation, release."],
+["|p| - page of wands - upright -  inspiration, ideas, discovery, limitless potential, free spirit.", "|p| - page of wands - inveted - newly-formed ideas, redirecting energy, self-limiting beliefs, a spiritual path."],
+["|j| - jack of wands - upright - energy, passion, inspired action, adventure, impulsiveness.", "|j| - jack of wands - inveted -  passion project, haste, scattered energy, delays, frustration."],
+["|k| - king of wands - upright - vision, entrepreneur, honour.", "|k| - king of wands - inveted -  impulsiveness, haste, ruthless, high expectations."],
+["|q| - queen of wands - upright - courage, confidence, independence, social butterfly, determination.", "|q| - queen of wands - inveted - self-respect, self-confidence, introverted, re-establish sense of self."],
+["|a| - ace of cups - upright - love, new relationships, compassion, creativity.", "|a| - ace of cups - inveted - self-love, intuition, repressed emotions."],
+["|2| - two of cups - upright - unified love, partnership, mutual attraction", "|2| - two of cups - inveted - self-love, break-ups, disharmony, distrust."],
+["|3| - three of cups - upright - celebration, friendship, creativity, collaborations.", "|3| - three of cups - inveted - independence, alone time, hardcore partying, ‘three’s a crowd’."],
+["|4| - four of cups - upright - meditation, contemplation, apathy, reevaluation.", "|4| - four of cups - inveted - retreat, withdrawal, checking in for alignment."],
+["|5| - five of cups - upright - regret, failure, disappointment, pessimism.", "|5| - five of cups - inveted - personal setbacks, self-forgiveness, moving on."],
+["|6| - six of cups - upright - revisiting the past, childhood memories, innocence, joy.", "|6| - six of cups - inveted - living in the past, forgiveness, lacking playfulness."],
+["|7| - seven of cups - upright - opportunities, choices, wishful thinking, illusion.", "|7| - seven of cups - inveted - alignment, personal values, overwhelmed by choices."],
+["|8| - eight of cups - upright - disappointment, abandonment, withdrawal, escapism.", "|8| - eight of cups - inveted - indecision, aimless drifting, walking away."],
+["|9| - nine of cups - upright - contentment, satisfaction, gratitude, wish come true.", "|9| - nine of cups - inveted - inner happiness, materialism, dissatisfaction, indulgence."],
+["|10| - ten of cups - upright - divine love, blissful relationships, harmony, alignment.", "|10| - ten of cups - inveted - disconnection, misaligned values, struggling relationships."],
+["|p| - page of cups - upright - creative opportunities, intuitive messages, curiosity, possibility.", "|p| - page of cups - inveted - new ideas, doubting intuition, creative blocks, emotional immaturity."],
+["|j| - jack of cups - upright - creativity, romance, charm, imagination, beauty.", "|j| - jack of cups - inveted - overactive imagination, unrealistic, jealous, moody."],
+["|k| - king of cups - upright - emotionally balanced, compassionate, diplomatic.", "|k| - king of cups - inveted - self-compassion, inner feelings, moodiness, emotionally manipulative."],
+["|q| - queen of cups - upright - compassionate, caring, emotionally stable, intuitive, in flow.", "|q| - queen of cups - inveted - inner feelings, self-care, self-love, co-dependency."]
 ]
 
 draw = allCards.sample(3)
@@ -109,3 +109,13 @@ card +=1
 print "future"
 print "\n"
 print draw[card][m]
+
+
+# working on soma ascii art for the app                     
+# ___                ^    ______
+#||   \    //\     /   \ <______>  
+#||  | )  //__\    | | |    ||
+#||___/  //____\   \  \/    ||
+#||     //      \  /\  \    ||
+#||    //        \ | | |    ||
+#||   //          \ \ /     ||
