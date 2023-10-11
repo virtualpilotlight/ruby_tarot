@@ -97,6 +97,7 @@ k = rand(2)
 l = rand(2)
 m = rand(2)
 print "past"
+# puts ascii_past
 print "\n"
 print draw[card][k]
 print "\n"
@@ -109,7 +110,7 @@ card +=1
 print "future"
 print "\n"
 print draw[card][m]
-
+print "\n"
 
 # working on soma ascii art for the app                     
 ascii_past= "
@@ -122,4 +123,4 @@ ascii_past= "
  ||   //          \\ \\ /     ||
 
 "
-puts ascii_past
+# puts ascii_past
