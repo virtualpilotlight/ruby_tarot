@@ -79,6 +79,35 @@ allCards = [
 ["|qc| - queen of cups - upright - compassionate, caring, emotionally stable, intuitive, in flow.", "|q| - queen of cups - inveted - inner feelings, self-care, self-love, co-dependency."]
 ]
 
+# working on soma ascii art for the app                     
+ascii_past = "
+  ___                ^    ______
+ ||   \\    //\\     /   \\ <______>  
+ || |) )  //__\\    | | |    ||
+ ||___/  //____\\   \\  \\/    ||
+ ||     //      \\  /\\  \\    ||
+ ||    //        \\ | | |    ||
+ ||   //          \\ \\ /     ||
+"
+ascii_present = "
+ ___      ____    _____    ^    _______             ________
+||   \\  ||    \\ ||_____> /   \\  ||_____> ||\\\\    ||<________>
+|| |) ) ||  |) )||       | | |  ||       || \\\\   ||    ||
+||___/  ||____/ ||____   \\  \\/  ||____   ||  \\\\  ||    ||
+||      ||\\\\    ||       /\\  \\  ||       ||   \\\\ ||    ||
+||      || \\\\   ||_____  | | |  ||_____  ||    \\\\||    ||
+||      ||  \\\\  ||_____>  \\ /   ||_____> ||      ||    ||
+"
+ascii_future = "
+ _______                             _____    _____
+||______> ||   || <-------> ||   || ||    \\  ||____>
+||        ||   ||     |     ||   || || |)  ) ||
+||____    ||   ||     |     ||   || ||____/  ||___
+||        ||   ||     |     ||   || ||\\\\     ||
+||        ||___||     |     ||___|| || \\\\    ||_____
+||        |_____|     |     |_____| ||  \\\\   ||_____>
+"
+
 draw = allCards.sample(3)
 
 #print draw
@@ -96,31 +125,15 @@ card = 0
 k = rand(2)
 l = rand(2)
 m = rand(2)
-print "past"
-# puts ascii_past
-print "\n"
+puts ascii_past
 print draw[card][k]
-print "\n"
 card +=1
-print "present"
-print "\n"
+puts ascii_present
 print draw[card][l]
-print "\n"
 card +=1
-print "future"
-print "\n"
+puts ascii_future
+# print "future"
 print draw[card][m]
-print "\n"
 
-# working on soma ascii art for the app                     
-ascii_past= "
-  ___                ^    ______
- ||   \\    //\\     /   \\ <______>  
- || |) )  //__\\    | | |    ||
- ||___/  //____\\   \\  \\/    ||
- ||     //      \\  /\\  \\    ||
- ||    //        \\ | | |    ||
- ||   //          \\ \\ /     ||
 
-"
-# puts ascii_past
+
